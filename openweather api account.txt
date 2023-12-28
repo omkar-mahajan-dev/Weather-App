@@ -1,0 +1,3 @@
+https://home.openweathermap.org/api_keys
+email - omkarmahajan0609@gmail.com
+password - Openapi123
